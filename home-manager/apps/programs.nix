@@ -7,28 +7,22 @@
      bitwarden
      brave
      btop
-     catppuccin-cursors
-     catppuccin-gtk 
-     catppuccin-kde
-     catppuccin-papirus-folders 
-     dracula-icon-theme
-     dracula-theme
+     cowsay
+     discord
      feh
      firefox
      flameshot
      font-manager 
      galculator
      geany
-     gh
      gimp-with-plugins
      glances
-     google-authenticator
      google-chrome
-     guake
      hplipWithPlugin
      htop
      keepassxc
-     lazygit
+     imagemagick
+     libreoffice
      lxappearance
      meld
      networkmanagerapplet
@@ -38,23 +32,30 @@
      picom
      polkit_gnome
      polybar
+     ranger
      rofi
      signal-desktop
      telegram-desktop
-     timeshift
      tor
      tor-browser-bundle-bin
      torsocks
      udiskie
      udisks
+     variety
      veracrypt
      viewnior
      vlc
      volumeicon
      yubikey-agent
-     yubikey-agent
-     yubikey-manager
      yubikey-manager
      yubioath-flutter
+
+ #Themes
+     dracula-theme
+     dracula-icon-theme
+     catppuccin-gtk 
+     catppuccin-kde
+     catppuccin-cursors
+     catppuccin-papirus-folders 
    ];
 }
